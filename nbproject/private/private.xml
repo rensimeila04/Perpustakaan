@@ -5,9 +5,12 @@
         <group>
             <file>file:/D:/POLINEMA/Semester%203/PBO/Perpustakaan/src/backend/DBHelper.java</file>
             <file>file:/D:/POLINEMA/Semester%203/PBO/Perpustakaan/src/backend/Kategori.java</file>
-            <file>file:/D:/POLINEMA/Semester%203/PBO/Perpustakaan/src/perpustakaan/Perpustakaan.java</file>
-            <file>file:/D:/POLINEMA/Semester%203/PBO/Perpustakaan/src/frontend/TestBackend.java</file>
-            <file>file:/D:/POLINEMA/Semester%203/PBO/Perpustakaan/src/frontend/FrmKategori.java</file>
+            <file>file:/D:/POLINEMA/Semester%203/PBO/Perpustakaan/src/backend/Peminjaman.java</file>
+            <file>file:/D:/POLINEMA/Semester%203/PBO/Perpustakaan/src/frontend/FrmPeminjaman.java</file>
+            <file>file:/D:/POLINEMA/Semester%203/PBO/Perpustakaan/src/backend/Pegawai.java</file>
+            <file>file:/D:/POLINEMA/Semester%203/PBO/Perpustakaan/src/backend/Buku.java</file>
+            <file>file:/D:/POLINEMA/Semester%203/PBO/Perpustakaan/src/frontend/FrmBuku.java</file>
+            <file>file:/D:/POLINEMA/Semester%203/PBO/Perpustakaan/src/frontend/FrmPegawai.java</file>
         </group>
     </open-files>
 </project-private>
